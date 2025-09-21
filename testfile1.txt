@@ -2,3 +2,4 @@ I have an apple.
 I have a banana.
 I have a grape.
 I have a lemon.
+I have a tomato.
